@@ -1,5 +1,6 @@
 2.11
 ====
+* Debug mode for `Union`
 
 2.10
 ====
